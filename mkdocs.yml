@@ -1,0 +1,16 @@
+site_name: Apache Spark + Delta Lake + Iceberg
+site_description: Trabalho de Pesquisa - Arquitetura de Dados SATC
+theme:
+  name: material
+  palette:
+    primary: deep orange
+    accent: orange
+  features:
+    - navigation.tabs
+    - content.code.copy
+
+nav:
+  - Início: index.md
+  - Apache Spark: spark.md
+  - Delta Lake: delta.md
+  - Apache Iceberg: iceberg.md
